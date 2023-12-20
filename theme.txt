@@ -60,8 +60,7 @@ terminal-border: "0"
 	text = "Make Your Wish in %d"
 }
 
-#This label is only shown, if the countdown is interrupted by the user (e.g.
-# if the user presses Key-Down
+#If the countdown is interrupted by the user, this is shown
 + label {
     top = 60%
     left = 40%
