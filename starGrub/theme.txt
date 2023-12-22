@@ -65,7 +65,7 @@ terminal-border: "0"
     top = 60%
     left = 40%
     font = "Super Mario Bros. 2 Regular 16"
-    text = "You interrupted the natural order!!"
+    text = ""
     color = "#ffffff"
 }
 
