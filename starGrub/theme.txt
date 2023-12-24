@@ -63,7 +63,7 @@ terminal-border: "0"
 #If the countdown is interrupted by the user, this is shown
 + label {
     top = 60%
-    left = 40%
+    left = 37%
     font = "Super Mario Bros. 2 Regular 16"
     text = "You have made a Stellar choice!!"
     color = "#ffffff"
