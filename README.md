@@ -1,1 +1,3 @@
-# starGrub
+## starGrub
+A GNU Grub Theme
+# Installation
