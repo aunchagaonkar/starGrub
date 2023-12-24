@@ -1,5 +1,5 @@
 # GNU GRUB THEME
-
+# made by aunchagaonkar
 # Global Property
 title-text: ""
 desktop-image: "background.png"
@@ -65,7 +65,6 @@ terminal-border: "0"
     top = 60%
     left = 40%
     font = "Super Mario Bros. 2 Regular 16"
-    text = ""
+    text = "You have made a Stellar choice!!"
     color = "#ffffff"
 }
-
